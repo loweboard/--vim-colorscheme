@@ -1,3 +1,3 @@
 # vim colorscheme
-. added python<br>
-<a href="https://www.loweboard.com/assets/20260917/log.zip">download colorscheme (python only)</a><br>
+vim colorscheme by iSystemAdministrator (python only)<br>
+<a href="https://www.loweboard.com/assets/20260917/log.zip">download link</a><br>
